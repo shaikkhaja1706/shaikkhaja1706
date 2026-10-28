@@ -41,5 +41,5 @@ integrations, and enterprise service management.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/khaja-shaik-servicenow-developer)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/khaja-shaik-servicenow-developer/)
 - GitHub: [My Repositories](YOUR_GITHUB_PROFILE_URL)
